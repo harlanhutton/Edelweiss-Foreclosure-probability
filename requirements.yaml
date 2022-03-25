@@ -1,0 +1,16 @@
+name: rds-env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - nltk
+  - scipy
+  - xgboost
+  - jupyter 
+  - imbalanced-learn
+
