@@ -1,3 +1,11 @@
+# Create Environment
+
+Install the dependencies and activate the environment `rds-env` with
+```bash
+conda env create --file requirements.yaml python=3
+conda activate rds-env
+```
+
 # Edelweiss-Foreclosure-probability
 Edelweiss Hackathon-Foreclosure Probability Prediction
 
